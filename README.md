@@ -21,7 +21,7 @@ The system allows the company to assign specific vehicles to qualified employees
 - **Reserved:** Handles the storage and display of all successful bookings.
 
 ## 🎓 Learning Objectives
-- This project was developed to master:
+  This project was developed to master:
 
   - JavaScript Classes and Constructors.
 
